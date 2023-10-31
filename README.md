@@ -11,7 +11,7 @@ Este es un juego de carreras simple creado con Pygame. El juego incluye un menú
 
 ### Ejecución
 1. Asegúrate de tener las imágenes `fondo.png` y `jugador.png` en el mismo directorio que el código del juego.
-2. Ejecuta el archivo Python `juego_de_carreras.py` para iniciar el juego.
+2. Ejecuta el archivo Python `Game.py` para iniciar el juego.
 
 ## Características del juego
 
